@@ -16,7 +16,7 @@ A complete 2D platformer game developed using Unreal engine & blueprints.
 - UI & restart logic
 
 ## Screenshots
-(See screenshots in this repository)
+(See gameplay video in this repository)
 
 ## Status
 Completed basic gameplay systems. Open to further polish & improvements.
